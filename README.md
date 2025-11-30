@@ -31,10 +31,7 @@ curl -X POST http://localhost:8080/api/exact -H "Content-Type: application/json"
 curl -X POST http://localhost:8080/api/greedy -H "Content-Type: application/json" -d "{"degrees":[5,3,2,2,2]}"
 
 
-
-
-
-
+<img width="634" height="771" alt="Zrzut ekranu 2025-12-1 o 00 25 47" src="https://github.com/user-attachments/assets/1c2abc05-4493-4a45-89d9-0beac27289b4" />
 
 
 
